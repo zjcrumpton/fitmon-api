@@ -77,3 +77,23 @@ Body (JSON):
     }
 }
 ```
+
+Res:
+
+```
+{
+    "user": {
+        id,
+        username,
+        email,
+        goal,
+        days_per_week,
+        gender,
+        age,
+        weight,
+        height,
+        experience,
+    },
+    "token": token
+}
+```
