@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  password: 
+  goal: MyString
+  days_per_week: 1
+  gender: MyString
+  age: 1
+  weight: 1
+  height: MyString
+  experience: MyString
+
+two:
+  username: MyString
+  password: 
+  goal: MyString
+  days_per_week: 1
+  gender: MyString
+  age: 1
+  weight: 1
+  height: MyString
+  experience: MyString
